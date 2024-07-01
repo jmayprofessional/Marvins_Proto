@@ -24,7 +24,7 @@ export const content = {
         subTitleHoverColorAlt: "",
         subTitleFontStyle: "",
         subTitleBackgroundColor: "",
-        buttonText: "chippy",
+        buttonText: "",
         buttonTextFontColor: "",
         buttonTextHoverColor: "",
         buttonTextHoverColorAlt: "",
