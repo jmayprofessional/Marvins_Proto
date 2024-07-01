@@ -33,7 +33,7 @@ export const content = {
     },
     pricingSection: {
         mainTitle: "Daily Market Prices",
-        servicesBackgroundImage: 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izqR4gZINCQA/v2/-1x-1.jpg',
+        servicesBackgroundImage: 'https://travelwithkat.com/wp-content/uploads/2019/05/20190417_194429-1.jpg',
         services: [
             {
                 serviceImage: "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/448765306_887660133377262_2655177614065519400_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4quaqpo2EsIQ7kNvgHO55Yt&_nc_ht=scontent-mia3-2.xx&oh=00_AYCwee7Ppt_AutPFja4PTiURGvZhKJ8MprowTFXKCqzJxw&oe=668747EB",
