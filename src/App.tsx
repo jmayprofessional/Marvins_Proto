@@ -7,6 +7,7 @@ import PricingSection from './components/pricing/pricingSection'
 import AboutUsSection from './components/aboutUs/aboutUsSection'
 import FooterSection from './components/footer/footerSection'
 import SocialsSection from './components/socials/socialsSection'
+import PricingMenu from './components/pricing/pricingMenu';
 
 function App() {
 
@@ -19,6 +20,9 @@ function App() {
       </Box>
       <Box id="pricing">
       <PricingSection />
+      </Box>
+      <Box id="PricingMenu">
+        <PricingMenu />
       </Box>
       <Box id="about">
       <AboutUsSection />

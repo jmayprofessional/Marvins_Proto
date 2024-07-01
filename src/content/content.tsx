@@ -97,6 +97,17 @@ export const content = {
             },
         ]
     },
+    PricingMenu: {
+        sectionTitle: "Market Prices - Shrimp",
+        backgroundImage: "",
+        seafoodItemsPricingColor: "#2D4786",
+        seafoodItems: [
+          { name: "Peeled and Deveined Shrimp", price: "$14.99/lb" },
+          { name: "Jumbo Shrimp", price: "$13.99/lb" },
+          { name: "Large Shrimp", price: "$11.99/lb" },
+          { name: "Medium Shrimp", price: "$9.99/lb" },
+        ],
+    },
     gallerySection: {
         galleryImageHeight: "300px",
         galleryImageBoxShadowColor: "0px 4px 20px rgba(45, 71, 134, 1)",
