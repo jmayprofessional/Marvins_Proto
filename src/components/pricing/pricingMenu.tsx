@@ -1,7 +1,5 @@
-// src/components/SeafoodSection.tsx
-import React, { useState } from "react";
 import { Grid, Card, CardContent, Typography, Box } from "@mui/material";
-import { content } from "../../content/content"; // Ensure this content is optimized for multiple items
+import { content } from "../../content/content"; 
 
 const PricingMenu: React.FC = () => {
   return (
