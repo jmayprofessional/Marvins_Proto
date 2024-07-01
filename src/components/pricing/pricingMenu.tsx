@@ -17,7 +17,7 @@ const PricingMenu: React.FC = () => {
         padding: "50px",
       }}
     >
-      <Typography variant="h4" component="h2" sx={{ marginBottom: "20px" }}>
+      <Typography variant="h4" component="h2" sx={{ marginBottom: "25px" }}>
         {content.PricingMenu.sectionTitle}
       </Typography>
       <Grid container spacing={2}>
